@@ -4,7 +4,7 @@ selector { attribute: style;
 
 body { background: url("Ice.jpg");;
        color: black;
-       font-size: 16pt; 
+       font-size: 18pt; 
        font-family: "Trebuchet MS";  }
 
 nav li { border: 5px solid #3355DC;
