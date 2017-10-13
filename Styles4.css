@@ -3,8 +3,8 @@ selector { attribute: style;
            attribute: style; }
 
 body { background: url("Ice.jpg");;
-       color: black;
-       font-size: 18pt; 
+       color: darkblue;
+       font-size: 14pt; 
        font-family: "Trebuchet MS";  }
 
 nav li { border: 5px solid #3355DC;
@@ -13,7 +13,6 @@ nav li { border: 5px solid #3355DC;
 	 background: #F7F7F7;
 	 display: inline;
 	 color: lightgrey;
-	 font_size: 12pt;
 	   }
 
 a { color: #3355DC;
