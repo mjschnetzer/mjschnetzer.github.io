@@ -1,0 +1,39 @@
+selector { attribute: style;
+           ...
+           attribute: style; }
+
+body { background-image: url("RUflag.jpg");
+       color: black;
+       font-size: 14pt; 
+       font-family: "Trebuchet MS";  }
+
+nav li { border: 5px solid #3355DC;
+	 padding: 15px;
+	 margin: 0px;
+	 background: #F7F7F7;
+	 display: inline;
+	 color: lightgrey;
+	   }
+
+a { color: #3355DC;
+    text-decoration: none }
+a:hover { color: red }
+
+
+
+h1 { border-left: 5px solid #3355DC }
+h2 { border-left: 5px solid #3355DC }
+
+.header img {
+  margin-right: 8px;
+  float: left;
+  width: 40px;
+  height: 42px;
+  background: #555;
+}
+
+#container { overflow: hidden; }
+#floated-imgs { float: left; }
+#floated-imgs img {display: block; }
+
+

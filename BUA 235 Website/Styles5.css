@@ -1,0 +1,37 @@
+selector { attribute: style;
+           ...
+           attribute: style; }
+
+body { background: black;
+       color: white;
+       font-size: 14pt; 
+       font-family: "Trebuchet MS";  }
+
+nav li { border: 5px solid red;
+	 padding: 15px;
+	 margin: 0px;
+	 background: white;
+	 display: inline;
+	 color: lightgrey; }
+
+a { color: blue;
+    text-decoration: none }
+a:hover { color: red }
+
+h1 { border-left: 5px solid red }
+h2 { border-left: 5px solid red }
+
+.header img {
+  margin-right: 8px;
+  float: left;
+  width: 40px;
+  height: 42px;
+  background: #555;
+}
+
+#container { overflow: hidden; }
+#floated-imgs { float: left; }
+#floated-imgs img {display: block; }
+
+
+
